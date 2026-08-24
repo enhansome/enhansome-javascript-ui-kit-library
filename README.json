@@ -12,10 +12,10 @@
             "archived": false,
             "id": 585146387,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:28:23Z",
+            "last_commit": "2026-08-23T11:17:54Z",
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 121875
+            "stars": 121956
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-23T00:54:57Z",
+            "last_commit": "2026-08-24T02:58:51Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99149
+            "stars": 99162
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2024-08-20T07:40:13Z",
             "owner": "ElemeFE",
             "repo": "element",
-            "stars": 54058
+            "stars": 54059
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 67962648,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T17:26:09Z",
+            "last_commit": "2026-08-24T03:29:07Z",
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41031
+            "stars": 41033
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-22T11:03:56Z",
             "owner": "heroui-inc",
             "repo": "heroui",
-            "stars": 30438
+            "stars": 30449
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2026-08-21T19:39:08Z",
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21623
+            "stars": 21624
           }
         },
         {
@@ -117,10 +117,10 @@
             "archived": false,
             "id": 60537144,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T10:29:35Z",
+            "last_commit": "2026-08-23T19:22:54Z",
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20224
+            "stars": 20225
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-08T16:39:51Z",
             "owner": "radix-ui",
             "repo": "primitives",
-            "stars": 19198
+            "stars": 19201
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-08-21T11:22:50Z",
             "owner": "tusen-ai",
             "repo": "naive-ui",
-            "stars": 18502
+            "stars": 18504
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-21T06:59:09Z",
             "owner": "DouyinFE",
             "repo": "semi-design",
-            "stars": 10302
+            "stars": 10303
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-06-28T23:09:38Z",
             "owner": "primefaces",
             "repo": "primereact",
-            "stars": 8318
+            "stars": 8317
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-22T07:49:37Z",
             "owner": "nuxt",
             "repo": "ui",
-            "stars": 6850
+            "stars": 6853
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-07T08:29:36Z",
             "owner": "arco-design",
             "repo": "arco-design",
-            "stars": 5671
+            "stars": 5672
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2026-08-21T12:16:41Z",
             "owner": "Tencent",
             "repo": "tdesign-vue-next",
-            "stars": 2165
+            "stars": 2166
           }
         },
         {
@@ -303,10 +303,10 @@
             "archived": false,
             "id": 88717215,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T16:55:07Z",
+            "last_commit": "2026-08-24T03:06:32Z",
             "owner": "youzan",
             "repo": "vant",
-            "stars": 24372
+            "stars": 24373
           }
         },
         {
@@ -443,7 +443,7 @@
                 "last_commit": "2026-08-07T19:44:24Z",
                 "owner": "akveo",
                 "repo": "react-native-ui-kitten",
-                "stars": 10672
+                "stars": 10671
               }
             },
             {
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T04:22:02.923Z",
+    "last_updated": "2026-08-24T04:27:32.964Z",
     "original_repository": "woshiqiang1/awesome-javascript-ui-kit-library",
     "original_repository_id": 585377154,
     "original_repository_sha": "5590b92e08f00bd0651992c5f2da6b7e0485966f",
