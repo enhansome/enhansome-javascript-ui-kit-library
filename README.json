@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T19:23:00Z",
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 122031
+            "stars": 122038
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T01:27:22Z",
+            "last_commit": "2026-08-25T05:56:38Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99178
+            "stars": 99179
           }
         },
         {
@@ -57,10 +57,10 @@
             "archived": false,
             "id": 67962648,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:03:02Z",
+            "last_commit": "2026-08-25T06:22:26Z",
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41032
+            "stars": 41033
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-24T17:07:26Z",
             "owner": "chakra-ui",
             "repo": "chakra-ui",
-            "stars": 40591
+            "stars": 40592
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-24T22:08:14Z",
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20228
+            "stars": 20227
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-08-08T16:39:51Z",
             "owner": "radix-ui",
             "repo": "primitives",
-            "stars": 19205
+            "stars": 19207
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-08-24T11:27:07Z",
             "owner": "arco-design",
             "repo": "arco-design",
-            "stars": 5672
+            "stars": 5673
           }
         },
         {
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T04:22:23.146Z",
+    "last_updated": "2026-08-25T06:32:28.684Z",
     "original_repository": "woshiqiang1/awesome-javascript-ui-kit-library",
     "original_repository_id": 585377154,
     "original_repository_sha": "5590b92e08f00bd0651992c5f2da6b7e0485966f",
