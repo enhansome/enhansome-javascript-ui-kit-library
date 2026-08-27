@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T06:28:13Z",
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 122254
+            "stars": 122264
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:44:37Z",
+            "last_commit": "2026-08-27T11:56:07Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99220
+            "stars": 99222
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 67962648,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T08:45:17Z",
+            "last_commit": "2026-08-27T13:09:22Z",
             "owner": "vuetifyjs",
             "repo": "vuetify",
             "stars": 41041
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-24T17:07:26Z",
             "owner": "chakra-ui",
             "repo": "chakra-ui",
-            "stars": 40598
+            "stars": 40597
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-25T21:39:15Z",
             "owner": "heroui-inc",
             "repo": "heroui",
-            "stars": 30470
+            "stars": 30472
           }
         },
         {
@@ -174,10 +174,10 @@
           "description": "-",
           "children": [],
           "repo_info": {
-            "archived": true,
+            "archived": false,
             "id": 76666208,
             "language": "CSS",
-            "last_commit": "2026-06-28T23:09:38Z",
+            "last_commit": "2026-08-27T14:22:23Z",
             "owner": "primefaces",
             "repo": "primereact",
             "stars": 8319
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 428329515,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T15:38:39Z",
+            "last_commit": "2026-08-27T12:43:58Z",
             "owner": "nuxt",
             "repo": "ui",
             "stars": 6861
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 438886855,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:08:05Z",
+            "last_commit": "2026-08-27T14:18:59Z",
             "owner": "Tencent",
             "repo": "tdesign-vue-next",
             "stars": 2169
@@ -303,7 +303,7 @@
             "archived": false,
             "id": 88717215,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T22:00:12Z",
+            "last_commit": "2026-08-27T11:57:32Z",
             "owner": "youzan",
             "repo": "vant",
             "stars": 24376
@@ -425,7 +425,7 @@
                 "archived": false,
                 "id": 71323749,
                 "language": "TypeScript",
-                "last_commit": "2026-08-26T12:43:07Z",
+                "last_commit": "2026-08-27T13:43:04Z",
                 "owner": "callstack",
                 "repo": "react-native-paper",
                 "stars": 14450
@@ -501,7 +501,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:50:22.667Z",
+    "last_updated": "2026-08-27T14:45:44.220Z",
     "original_repository_info": {
       "archived": false,
       "id": 585377154,
