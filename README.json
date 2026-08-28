@@ -15,8 +15,9 @@
             "last_commit": "2026-08-26T06:28:13Z",
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 122264
-          }
+            "stars": 122394
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -27,11 +28,12 @@
             "archived": false,
             "id": 34526884,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:56:07Z",
+            "last_commit": "2026-08-28T15:21:33Z",
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99222
-          }
+            "stars": 99243
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "ElemeFE",
             "repo": "element",
             "stars": 54057
-          }
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 67962648,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T13:09:22Z",
+            "last_commit": "2026-08-28T02:36:02Z",
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41041
-          }
+            "stars": 41043
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -72,11 +76,12 @@
             "archived": false,
             "id": 202890778,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T17:07:26Z",
+            "last_commit": "2026-08-28T09:56:39Z",
             "owner": "chakra-ui",
             "repo": "chakra-ui",
             "stars": 40597
-          }
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -87,11 +92,12 @@
             "archived": false,
             "id": 360522116,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T21:39:15Z",
+            "last_commit": "2026-08-28T15:13:31Z",
             "owner": "heroui-inc",
             "repo": "heroui",
-            "stars": 30472
-          }
+            "stars": 30480
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -105,8 +111,9 @@
             "last_commit": "2026-08-26T23:48:22Z",
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21633
-          }
+            "stars": 21634
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -117,11 +124,12 @@
             "archived": false,
             "id": 60537144,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T10:17:29Z",
+            "last_commit": "2026-08-28T13:11:26Z",
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20233
-          }
+            "stars": 20231
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -135,8 +143,9 @@
             "last_commit": "2026-08-08T16:39:51Z",
             "owner": "radix-ui",
             "repo": "primitives",
-            "stars": 19214
-          }
+            "stars": 19218
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -147,11 +156,12 @@
             "archived": false,
             "id": 373855820,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T12:54:04Z",
+            "last_commit": "2026-08-27T20:03:57Z",
             "owner": "tusen-ai",
             "repo": "naive-ui",
-            "stars": 18515
-          }
+            "stars": 18517
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -165,8 +175,9 @@
             "last_commit": "2026-08-21T06:59:09Z",
             "owner": "DouyinFE",
             "repo": "semi-design",
-            "stars": 10321
-          }
+            "stars": 10328
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -177,11 +188,12 @@
             "archived": false,
             "id": 76666208,
             "language": "CSS",
-            "last_commit": "2026-08-27T14:22:23Z",
+            "last_commit": "2026-08-27T22:12:49Z",
             "owner": "primefaces",
             "repo": "primereact",
             "stars": 8319
-          }
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -192,11 +204,12 @@
             "archived": false,
             "id": 428329515,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T12:43:58Z",
+            "last_commit": "2026-08-28T13:01:39Z",
             "owner": "nuxt",
             "repo": "ui",
-            "stars": 6861
-          }
+            "stars": 6862
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -210,8 +223,9 @@
             "last_commit": "2026-08-24T11:27:07Z",
             "owner": "arco-design",
             "repo": "arco-design",
-            "stars": 5675
-          }
+            "stars": 5677
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "epicmaxco",
             "repo": "vuestic-ui",
             "stars": 3747
-          }
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "youzan",
             "repo": "zent",
             "stars": 2248
-          }
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -252,11 +268,12 @@
             "archived": false,
             "id": 438886855,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T14:18:59Z",
+            "last_commit": "2026-08-28T08:56:59Z",
             "owner": "Tencent",
             "repo": "tdesign-vue-next",
-            "stars": 2169
-          }
+            "stars": 2172
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "vexip-ui",
             "repo": "vexip-ui",
             "stars": 1898
-          }
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "Equal-UI",
             "repo": "Equal",
             "stars": 1262
-          }
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         }
       ],
       "title": "PC 💻"
@@ -303,11 +322,12 @@
             "archived": false,
             "id": 88717215,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T11:57:32Z",
+            "last_commit": "2026-08-27T22:55:47Z",
             "owner": "youzan",
             "repo": "vant",
             "stars": 24376
-          }
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "ElemeFE",
             "repo": "mint-ui",
             "stars": 16437
-          }
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "ant-design",
             "repo": "ant-design-mobile",
             "stars": 12041
-          }
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -351,8 +373,9 @@
             "last_commit": "2026-01-05T08:58:35Z",
             "owner": "didi",
             "repo": "cube-ui",
-            "stars": 9102
-          }
+            "stars": 9101
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "jd-opensource",
             "repo": "nutui",
             "stars": 6508
-          }
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -382,7 +406,8 @@
             "owner": "varletjs",
             "repo": "varlet",
             "stars": 5332
-          }
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "ZhongAnTech",
             "repo": "zarm",
             "stars": 1725
-          }
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "arco-design",
             "repo": "arco-design-mobile",
             "stars": 502
-          }
+          },
+          "first_seen": "2026-08-28T15:39:57.076Z"
         },
         {
           "children": [
@@ -425,11 +452,12 @@
                 "archived": false,
                 "id": 71323749,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T13:43:04Z",
+                "last_commit": "2026-08-28T13:21:03Z",
                 "owner": "callstack",
                 "repo": "react-native-paper",
-                "stars": 14450
-              }
+                "stars": 14448
+              },
+              "first_seen": "2026-08-28T15:39:57.076Z"
             },
             {
               "node_type": "item",
@@ -444,7 +472,8 @@
                 "owner": "akveo",
                 "repo": "react-native-ui-kitten",
                 "stars": 10670
-              }
+              },
+              "first_seen": "2026-08-28T15:39:57.076Z"
             },
             {
               "node_type": "item",
@@ -459,7 +488,8 @@
                 "owner": "wix",
                 "repo": "react-native-ui-lib",
                 "stars": 7151
-              }
+              },
+              "first_seen": "2026-08-28T15:39:57.076Z"
             },
             {
               "node_type": "item",
@@ -474,7 +504,8 @@
                 "owner": "ant-design",
                 "repo": "ant-design-mobile-rn",
                 "stars": 3343
-              }
+              },
+              "first_seen": "2026-08-28T15:39:57.076Z"
             },
             {
               "node_type": "item",
@@ -489,7 +520,8 @@
                 "owner": "24jieqi",
                 "repo": "react-native-xiaoshu",
                 "stars": 306
-              }
+              },
+              "first_seen": "2026-08-28T15:39:57.076Z"
             }
           ],
           "description": null,
@@ -501,7 +533,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T14:45:44.220Z",
+    "last_updated": "2026-08-28T15:39:57.076Z",
     "original_repository_info": {
       "archived": false,
       "id": 585377154,
