@@ -10,12 +10,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.",
+            "homepage": "https://ui.shadcn.com",
             "id": 585146387,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T06:28:13Z",
+            "open_issues": 2237,
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 122394
+            "stars": 122450,
+            "topics": [
+              "base-ui",
+              "components",
+              "laravel",
+              "nextjs",
+              "radix-ui",
+              "react",
+              "react-aria",
+              "react-aria-components",
+              "shadcn",
+              "tailwindcss",
+              "tanstack",
+              "ui",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -26,12 +45,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An enterprise-class UI design language and React UI library",
+            "homepage": "https://ant.design",
             "id": 34526884,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:21:33Z",
+            "open_issues": 1105,
             "owner": "ant-design",
             "repo": "ant-design",
-            "stars": 99243
+            "stars": 99257,
+            "topics": [
+              "ant-design",
+              "antd",
+              "design-systems",
+              "react",
+              "typescript",
+              "ui-kit",
+              "ui-library"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -42,12 +74,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vue.js 2.0 UI Toolkit for Web",
+            "homepage": "https://element.eleme.io/",
             "id": 67274736,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2024-08-20T07:40:13Z",
+            "open_issues": 2964,
             "owner": "ElemeFE",
             "repo": "element",
-            "stars": 54057
+            "stars": 54057,
+            "topics": [
+              "components",
+              "element-ui",
+              "javascript",
+              "ui-kit",
+              "vue",
+              "vue-components",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -58,12 +103,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐉 Vue Component Framework",
+            "homepage": "https://vuetifyjs.com",
             "id": 67962648,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T02:36:02Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T19:54:45Z",
+            "open_issues": 393,
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41043
+            "stars": 41043,
+            "topics": [
+              "javascript",
+              "material",
+              "material-components",
+              "material-design",
+              "material-theme",
+              "semantic",
+              "typescript",
+              "ui",
+              "ui-components",
+              "ui-design",
+              "ui-kit",
+              "ui-library",
+              "vue",
+              "vue-components",
+              "vue-material",
+              "vuejs",
+              "vuejs3",
+              "vuetify",
+              "vuetifyjs"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -74,12 +144,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chakra UI is a component system for building SaaS products with speed ⚡️",
+            "homepage": "https://chakra-ui.com",
             "id": 202890778,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T09:56:39Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T17:32:38Z",
+            "open_issues": 12,
             "owner": "chakra-ui",
             "repo": "chakra-ui",
-            "stars": 40597
+            "stars": 40602,
+            "topics": [
+              "a11y",
+              "accessible",
+              "ark-ui",
+              "chakra-ui",
+              "component",
+              "css-in-js",
+              "dark-mode",
+              "design-system",
+              "react",
+              "react-components",
+              "reactjs",
+              "styled",
+              "ui-components",
+              "ui-library",
+              "uikit",
+              "wai-aria"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -90,12 +182,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Beautiful, fast and modern React UI library. (Previously NextUI)",
+            "homepage": "https://heroui.com",
             "id": 360522116,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T15:13:31Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:54:45Z",
+            "open_issues": 31,
             "owner": "heroui-inc",
             "repo": "heroui",
-            "stars": 30480
+            "stars": 30486,
+            "topics": [
+              "component-library",
+              "components",
+              "library",
+              "reactjs"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -106,12 +208,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌈  An enterprise-class UI components based on Ant Design and Vue. 🐜",
+            "homepage": "https://antdv.com/",
             "id": 104172832,
             "language": "Vue",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T23:48:22Z",
+            "open_issues": 124,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21634
+            "stars": 21634,
+            "topics": [
+              "ant",
+              "ant-design",
+              "antd",
+              "antd-vue",
+              "css",
+              "enterprise",
+              "frontend",
+              "react",
+              "ui",
+              "ui-design",
+              "vue",
+              "vue-antd",
+              "vue-antd-ui",
+              "vue3",
+              "vuecomponent"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -122,12 +245,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+            "homepage": "https://react.fluentui.dev",
             "id": 60537144,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T13:11:26Z",
+            "open_issues": 770,
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20231
+            "stars": 20232,
+            "topics": [
+              "components",
+              "fluent",
+              "microsoft",
+              "office-ui-fabric",
+              "react",
+              "react-components"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -138,12 +273,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps. Maintained by @workos.",
+            "homepage": "https://radix-ui.com/primitives",
             "id": 273499522,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-08T16:39:51Z",
+            "open_issues": 342,
             "owner": "radix-ui",
             "repo": "primitives",
-            "stars": 19218
+            "stars": 19219,
+            "topics": [
+              "accessibility",
+              "colors",
+              "component-library",
+              "design-systems",
+              "radix-ui",
+              "react",
+              "ui",
+              "ui-components",
+              "ui-kit"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -154,12 +304,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.",
+            "homepage": "https://www.naiveui.com",
             "id": 373855820,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T20:03:57Z",
+            "open_issues": 699,
             "owner": "tusen-ai",
             "repo": "naive-ui",
-            "stars": 18517
+            "stars": 18517,
+            "topics": [
+              "component-library",
+              "ui-components",
+              "vue",
+              "vue-typescript",
+              "vue3-components"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -170,12 +331,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀A modern, comprehensive, flexible design system and React UI library, AI-friendly built-in.🎨Provide 3000+ Design Tokens, easy to build your design system. Make Semi Design to Any Design.🧑🏻‍💻 Design to Code in one click",
+            "homepage": "https://semi.design",
             "id": 421001366,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-21T06:59:09Z",
+            "open_issues": 39,
             "owner": "DouyinFE",
             "repo": "semi-design",
-            "stars": 10328
+            "stars": 10329,
+            "topics": [
+              "ai-friendly",
+              "code2design",
+              "dark-mode",
+              "design-system",
+              "design2code",
+              "designops",
+              "designtocode",
+              "figma-plugin",
+              "react",
+              "theme",
+              "ui-libary"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -186,12 +364,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Most Complete React UI Component Library",
+            "homepage": "https://primereact.org",
             "id": 76666208,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2026-08-27T22:12:49Z",
+            "open_issues": 355,
             "owner": "primefaces",
             "repo": "primereact",
-            "stars": 8319
+            "stars": 8319,
+            "topics": [
+              "bootstrap",
+              "bootstrap-table",
+              "charts",
+              "datatable",
+              "flex",
+              "flex-carousel",
+              "flex-galleria",
+              "grid",
+              "material",
+              "material-table",
+              "primereact",
+              "react",
+              "react-components",
+              "responsive-components",
+              "ripple",
+              "ripple-effect",
+              "tree",
+              "treetable",
+              "ui-components"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -202,12 +405,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Intuitive Vue UI Library powered by Reka UI & Tailwind CSS.",
+            "homepage": "https://ui.nuxt.com",
             "id": 428329515,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T13:01:39Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T15:53:51Z",
+            "open_issues": 257,
             "owner": "nuxt",
             "repo": "ui",
-            "stars": 6862
+            "stars": 6862,
+            "topics": [
+              "components",
+              "nuxt",
+              "nuxt-module",
+              "reka-ui",
+              "tailwindcss",
+              "ui",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -218,12 +434,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive React UI components library based on Arco Design",
+            "homepage": "https://arco.design",
             "id": 420868305,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T11:27:07Z",
+            "open_issues": 372,
             "owner": "arco-design",
             "repo": "arco-design",
-            "stars": 5677
+            "stars": 5679,
+            "topics": [
+              "arco-design",
+              "component-library",
+              "customize",
+              "design-system",
+              "react",
+              "ui",
+              "ui-library"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -234,12 +463,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Vuestic UI is an open-source Vue 3 component library designed for rapid development, easy maintenance, and high accessibility. Maintained by Epicmax (@epicmaxco).",
+            "homepage": "https://vuestic.dev",
             "id": 200370313,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-05-09T13:59:58Z",
+            "open_issues": 528,
             "owner": "epicmaxco",
             "repo": "vuestic-ui",
-            "stars": 3747
+            "stars": 3747,
+            "topics": [
+              "accessibility",
+              "components",
+              "javascript",
+              "semantic",
+              "typescript",
+              "ui-components",
+              "ui-kit",
+              "vue",
+              "vue-components",
+              "vue3",
+              "vuejs",
+              "vuejs3",
+              "vuestic",
+              "vuestic-ui"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -250,12 +499,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of essential UI components written with React.",
+            "homepage": "https://youzan.github.io/zent",
             "id": 81299823,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-09T03:06:34Z",
+            "open_issues": 21,
             "owner": "youzan",
             "repo": "zent",
-            "stars": 2248
+            "stars": 2247,
+            "topics": [
+              "component-library",
+              "components",
+              "hooks",
+              "javascript",
+              "react",
+              "typescript",
+              "ui-components",
+              "youzan"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -266,12 +529,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vue3.x UI components lib for TDesign.",
+            "homepage": "https://tdesign.tencent.com/vue-next",
             "id": 438886855,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:56:59Z",
+            "open_issues": 670,
             "owner": "Tencent",
             "repo": "tdesign-vue-next",
-            "stars": 2172
+            "stars": 2172,
+            "topics": [
+              "less",
+              "pc",
+              "tdesign",
+              "typescript",
+              "vue",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -282,12 +557,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vue 3 UI library, highly customizability, full TypeScript, performance pretty good.",
+            "homepage": "https://www.vexipui.com",
             "id": 247611238,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-06T04:03:16Z",
+            "open_issues": 40,
             "owner": "vexip-ui",
             "repo": "vexip-ui",
-            "stars": 1898
+            "stars": 1898,
+            "topics": [
+              "config",
+              "css",
+              "html",
+              "javascript",
+              "typescript",
+              "ui-components",
+              "vexipui",
+              "vitejs",
+              "vue",
+              "vue-components"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -298,12 +589,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Equal UI is a Vue 3 UI library empowered by Tailwindcss",
+            "homepage": "https://equal-ui.github.io/Equal/",
             "id": 215322499,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-28T12:14:42Z",
+            "open_issues": 2,
             "owner": "Equal-UI",
             "repo": "Equal",
-            "stars": 1262
+            "stars": 1262,
+            "topics": [
+              "contributions-welcome",
+              "css",
+              "equal",
+              "framework",
+              "frontend",
+              "nuxt",
+              "tailwind",
+              "tailwindcss",
+              "typescript",
+              "ui",
+              "ux",
+              "vue",
+              "vue-components",
+              "vue3",
+              "vuejs"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         }
@@ -320,12 +632,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, customizable Vue UI library for mobile web apps.",
+            "homepage": "https://vant.pro/vant/",
             "id": 88717215,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T22:55:47Z",
+            "open_issues": 223,
             "owner": "youzan",
             "repo": "vant",
-            "stars": 24376
+            "stars": 24376,
+            "topics": [
+              "components",
+              "mobile",
+              "ui-kit",
+              "ui-library",
+              "vant",
+              "vue",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -336,12 +661,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mobile UI elements for Vue.js",
+            "homepage": "http://mint-ui.github.io/#!/en",
             "id": 59010815,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2022-02-28T17:06:11Z",
+            "open_issues": 291,
             "owner": "ElemeFE",
             "repo": "mint-ui",
-            "stars": 16437
+            "stars": 16437,
+            "topics": [
+              "component",
+              "mobile",
+              "ui-kit",
+              "vue",
+              "vue-components"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -352,12 +688,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Essential UI blocks for building mobile web apps.",
+            "homepage": "https://mobile.ant.design",
             "id": 47093357,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T03:22:38Z",
+            "open_issues": 224,
             "owner": "ant-design",
             "repo": "ant-design-mobile",
-            "stars": 12041
+            "stars": 12041,
+            "topics": [
+              "ant-design",
+              "antd",
+              "antd-mobile",
+              "javascript",
+              "mobile",
+              "react",
+              "react-components",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -368,12 +718,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":large_orange_diamond: A fantastic mobile ui lib implement by Vue",
+            "homepage": "https://didi.github.io/cube-ui/",
             "id": 109359519,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-05T08:58:35Z",
+            "open_issues": 65,
             "owner": "didi",
             "repo": "cube-ui",
-            "stars": 9101
+            "stars": 9101,
+            "topics": [
+              "cube-ui",
+              "javascript",
+              "ui-library",
+              "vue",
+              "vue-components",
+              "vue-ui"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -384,12 +746,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "京东风格的移动端 Vue 组件库，支持多端小程序(A Vue.js UI Toolkit for Mobile Web)",
+            "homepage": "https://nutui.jd.com",
             "id": 118392397,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-04-02T05:55:12Z",
+            "open_issues": 190,
             "owner": "jd-opensource",
             "repo": "nutui",
-            "stars": 6508
+            "stars": 6508,
+            "topics": [
+              "components",
+              "jd",
+              "nutui",
+              "typescript",
+              "vite",
+              "vue",
+              "vue-components",
+              "vue3"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -400,12 +776,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Vue3 component library based on Material Design 2 and 3, supporting mobile and desktop.",
+            "homepage": "https://varletjs.org",
             "id": 308639708,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-08-19T17:06:33Z",
+            "open_issues": 17,
             "owner": "varletjs",
             "repo": "varlet",
-            "stars": 5332
+            "stars": 5332,
+            "topics": [
+              "components",
+              "javascript",
+              "js",
+              "material",
+              "material-design",
+              "material-design-3",
+              "material-design-you",
+              "mobile",
+              "ts",
+              "typescript",
+              "ui",
+              "ui-kit",
+              "ui-library",
+              "vue",
+              "vue3",
+              "vuejs3"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -416,12 +814,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "基于 React 的移动端 UI 组件库",
+            "homepage": "https://zarm.design",
             "id": 63241430,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-06T23:20:42Z",
+            "open_issues": 11,
             "owner": "ZhongAnTech",
             "repo": "zarm",
-            "stars": 1725
+            "stars": 1725,
+            "topics": [
+              "components",
+              "css",
+              "javascript",
+              "mobile",
+              "react",
+              "react-components",
+              "zarm"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -432,12 +843,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "React mobile UI components library based on Arco Design",
+            "homepage": "https://arco.design/mobile/react/arco-design/pc/#/",
             "id": 498584400,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-14T09:11:09Z",
+            "open_issues": 58,
             "owner": "arco-design",
             "repo": "arco-design-mobile",
-            "stars": 502
+            "stars": 502,
+            "topics": [
+              "arco-design",
+              "arco-design-mobile",
+              "components",
+              "design",
+              "react",
+              "typescript",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T15:39:57.076Z"
         },
@@ -450,12 +874,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Material Design for React Native (Android & iOS)",
+                "homepage": "https://reactnativepaper.com",
                 "id": 71323749,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-28T13:21:03Z",
+                "open_issues": 475,
                 "owner": "callstack",
                 "repo": "react-native-paper",
-                "stars": 14448
+                "stars": 14448,
+                "topics": [
+                  "hacktoberfest",
+                  "material-design",
+                  "react-native",
+                  "ui-kit"
+                ]
               },
               "first_seen": "2026-08-28T15:39:57.076Z"
             },
@@ -466,12 +900,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":boom: React Native UI Library based on Eva Design System  :new_moon_with_face::sparkles:Dark Mode",
+                "homepage": "https://akveo.github.io/react-native-ui-kitten/",
                 "id": 76937669,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-07T19:44:24Z",
+                "open_issues": 134,
                 "owner": "akveo",
                 "repo": "react-native-ui-kitten",
-                "stars": 10670
+                "stars": 10670,
+                "topics": [
+                  "react",
+                  "react-native",
+                  "ui-kit"
+                ]
               },
               "first_seen": "2026-08-28T15:39:57.076Z"
             },
@@ -482,12 +925,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UI Components Library for React Native",
+                "homepage": "https://wix.github.io/react-native-ui-lib/",
                 "id": 81314550,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-08-02T11:29:07Z",
+                "open_issues": 84,
                 "owner": "wix",
                 "repo": "react-native-ui-lib",
-                "stars": 7151
+                "stars": 7151,
+                "topics": [
+                  "android",
+                  "components",
+                  "hacktoberfest",
+                  "ios",
+                  "react-native",
+                  "tools",
+                  "ui"
+                ]
               },
               "first_seen": "2026-08-28T15:39:57.076Z"
             },
@@ -498,12 +954,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Ant Design for React Native",
+                "homepage": "https://rn.mobile.ant.design/",
                 "id": 131822486,
                 "language": "TypeScript",
+                "license": "MIT",
                 "last_commit": "2026-06-03T05:58:02Z",
+                "open_issues": 48,
                 "owner": "ant-design",
                 "repo": "ant-design-mobile-rn",
-                "stars": 3343
+                "stars": 3343,
+                "topics": [
+                  "android",
+                  "antd-mobile",
+                  "ios",
+                  "javascript",
+                  "react",
+                  "react-native",
+                  "typescript"
+                ]
               },
               "first_seen": "2026-08-28T15:39:57.076Z"
             },
@@ -514,12 +983,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌈 React Native UI library",
+                "homepage": "https://24jieqi.github.io/react-native-xiaoshu/",
                 "id": 385194607,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2025-09-26T15:55:07Z",
+                "open_issues": 20,
                 "owner": "24jieqi",
                 "repo": "react-native-xiaoshu",
-                "stars": 306
+                "stars": 306,
+                "topics": [
+                  "android",
+                  "ios",
+                  "react",
+                  "react-native",
+                  "typescript",
+                  "ui",
+                  "ui-components"
+                ]
               },
               "first_seen": "2026-08-28T15:39:57.076Z"
             }
@@ -533,15 +1015,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T15:39:57.076Z",
+    "last_updated": "2026-08-29T04:58:43.072Z",
     "original_repository_info": {
       "archived": false,
+      "description": "😎 An awesome list of high-quality JavaScript UI-kit libraries",
+      "homepage": null,
       "id": 585377154,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-09-15T02:58:03Z",
+      "open_issues": 0,
       "owner": "woshiqiang1",
       "repo": "awesome-javascript-ui-kit-library",
-      "stars": 105
+      "stars": 105,
+      "topics": [
+        "awesome-list",
+        "javascript",
+        "mobile",
+        "react",
+        "react-native",
+        "ui-components",
+        "ui-kit",
+        "vue",
+        "vue3"
+      ]
     },
     "original_repository_sha": "5590b92e08f00bd0651992c5f2da6b7e0485966f",
     "enhanced_repository": "enhansome/enhansome-javascript-ui-kit-library",
