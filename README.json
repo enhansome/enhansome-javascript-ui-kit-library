@@ -16,10 +16,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-10-02T11:32:02Z",
-            "open_issues": 1817,
+            "open_issues": 1819,
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 125010,
+            "stars": 125022,
             "topics": [
               "base-ui",
               "components",
@@ -83,7 +83,7 @@
             "open_issues": 2966,
             "owner": "ElemeFE",
             "repo": "element",
-            "stars": 54037,
+            "stars": 54036,
             "topics": [
               "components",
               "element-ui",
@@ -109,10 +109,10 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T23:01:56Z",
-            "open_issues": 389,
+            "open_issues": 390,
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41033,
+            "stars": 41032,
             "topics": [
               "javascript",
               "material",
@@ -213,11 +213,11 @@
             "id": 104172832,
             "language": "Vue",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T18:42:59Z",
+            "last_commit": "2026-10-03T06:54:59Z",
             "open_issues": 128,
             "owner": "vueComponent",
             "repo": "ant-design-vue",
-            "stars": 21672,
+            "stars": 21671,
             "topics": [
               "ant",
               "ant-design",
@@ -313,7 +313,7 @@
             "open_issues": 703,
             "owner": "tusen-ai",
             "repo": "naive-ui",
-            "stars": 18564,
+            "stars": 18565,
             "topics": [
               "component-library",
               "ui-components",
@@ -340,7 +340,7 @@
             "open_issues": 31,
             "owner": "DouyinFE",
             "repo": "semi-design",
-            "stars": 10400,
+            "stars": 10401,
             "topics": [
               "ai-friendly",
               "code2design",
@@ -414,7 +414,7 @@
             "open_issues": 248,
             "owner": "nuxt",
             "repo": "ui",
-            "stars": 6978,
+            "stars": 6980,
             "topics": [
               "components",
               "nuxt",
@@ -641,7 +641,7 @@
             "open_issues": 227,
             "owner": "youzan",
             "repo": "vant",
-            "stars": 24385,
+            "stars": 24386,
             "topics": [
               "components",
               "mobile",
@@ -785,7 +785,7 @@
             "open_issues": 12,
             "owner": "varletjs",
             "repo": "varlet",
-            "stars": 5333,
+            "stars": 5332,
             "topics": [
               "components",
               "javascript",
@@ -1020,7 +1020,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:51:18.116Z",
+    "last_updated": "2026-10-03T09:25:41.490Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 An awesome list of high-quality JavaScript UI-kit libraries",
