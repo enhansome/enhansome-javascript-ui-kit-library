@@ -19,7 +19,7 @@
             "open_issues": 1812,
             "owner": "shadcn-ui",
             "repo": "ui",
-            "stars": 125191,
+            "stars": 125194,
             "topics": [
               "ai",
               "base-ui",
@@ -112,8 +112,8 @@
             "id": 67962648,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T08:23:52Z",
-            "open_issues": 387,
+            "last_commit": "2026-10-06T10:57:43Z",
+            "open_issues": 389,
             "owner": "vuetifyjs",
             "repo": "vuetify",
             "stars": 41037,
@@ -195,7 +195,7 @@
             "open_issues": 21,
             "owner": "heroui-inc",
             "repo": "heroui",
-            "stars": 30875,
+            "stars": 30876,
             "topics": [
               "component-library",
               "components",
@@ -258,7 +258,7 @@
             "open_issues": 813,
             "owner": "microsoft",
             "repo": "fluentui",
-            "stars": 20313,
+            "stars": 20314,
             "topics": [
               "components",
               "fluent",
@@ -414,8 +414,8 @@
             "id": 428329515,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:31:56Z",
-            "open_issues": 260,
+            "last_commit": "2026-10-06T10:59:47Z",
+            "open_issues": 259,
             "owner": "nuxt",
             "repo": "ui",
             "stars": 6988,
@@ -1024,7 +1024,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:42:47.219Z",
+    "last_updated": "2026-10-06T11:10:00.460Z",
     "original_repository_info": {
       "archived": false,
       "description": "😎 An awesome list of high-quality JavaScript UI-kit libraries",
